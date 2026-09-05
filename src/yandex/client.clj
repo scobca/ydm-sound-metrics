@@ -1,6 +1,6 @@
 (ns yandex.client
-  (:require [config :refer [config]]))
+  (:require [config :refer [sensitive-config]]))
 
-(println (->> config
+(println (->> sensitive-config
               :yandex-api
               :oauth-base-url))
