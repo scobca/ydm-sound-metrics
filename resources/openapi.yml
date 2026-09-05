@@ -1,0 +1,6 @@
+openapi: 3.0.0
+
+info:
+  title: Yandex.Music sound metics API
+  version: 0.0.0-alpha
+  description: Extension for scrapping user's music history & likes
