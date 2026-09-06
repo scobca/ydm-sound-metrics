@@ -1,2 +1,5 @@
-{:app-name  "Yandex.Music sound metics"
- :http-port 8000}
+{:app-name      "Yandex.Music sound metics"
+ :http-port     8000
+ :yandex-client {
+                 :device-name-default-length 16
+                 }}

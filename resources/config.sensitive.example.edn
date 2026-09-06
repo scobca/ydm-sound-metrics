@@ -1,0 +1,7 @@
+{:yandex-api
+ {
+  :oauth-base-url        ""
+  :default-device-name   ""
+  :default-client-id     ""
+  :default-client-secret ""
+  }}
